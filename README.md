@@ -11,7 +11,7 @@ This repo includes a podspec for the 4.3.x dynamically-linked Google Cast iOS fr
 In your `Podfile`:
 
 ```ruby
-pod 'google-cast-sdk-dynamic', url => 'https://github.com/pepasflo/google-cast-sdk-dynamic.git'
+pod 'google-cast-sdk-dynamic', :git => 'https://github.com/pepasflo/google-cast-sdk-dynamic.git'
 ```
 
 then `pod install`.
