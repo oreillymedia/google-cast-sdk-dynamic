@@ -12,7 +12,8 @@
   "preserve_paths": "GoogleCastSDK-ios-4.4.7_dynamic/GoogleCast.framework/Modules/module.modulemap",
   "module_map": "GoogleCastSDK-ios-4.4.7_dynamic/GoogleCast.framework/Modules/module.modulemap",
   "source": {
-    "http": "https://developers.google.com/cast/downloads/GoogleCastSDK-ios-4.4.7_dynamic.zip"
+    "http": "https://dl.google.com/dl/chromecast/sdk/ios/GoogleCastSDK-ios-4.4.7_dynamic.zip"
+    
   },
   "platforms": {
     "ios": "9.0"
